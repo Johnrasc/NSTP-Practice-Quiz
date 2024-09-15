@@ -31,7 +31,7 @@ body {
     padding: 15px; /* Reduced padding */
     margin: 10px 0; /* Reduced margin */
     animation: fadeIn 0.5s ease-in-out;
-    padding-top: 2500vh;
+    padding-top: 2550vh;
 }
 
 @keyframes fadeIn {
