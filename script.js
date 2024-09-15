@@ -100,16 +100,6 @@ const questions = [
         correctAnswer: "R.A. 9163"
     },
     {
-        question: "Who is responsible for defending the security of the State according to the NSTP Law?",
-        answers: [
-            "The government alone",
-            "All citizens",
-            "Only students in ROTC",
-            "Only government officials"
-        ],
-        correctAnswer: "All citizens"
-    },
-    {
         question: "What is a key responsibility of the youth under the NSTP Law?",
         answers: [
             "To avoid participation in public affairs",
@@ -370,26 +360,6 @@ const questions = [
         correctAnswer: "Household garbage and industrial waste"
     },
     {
-        question: "Which of the following is a primary cause of deforestation?",
-        answers: [
-            "Expansion of urban areas",
-            "Protection of wildlife habitats",
-            "Reforestation efforts",
-            "Reduction in agricultural activities"
-        ],
-        correctAnswer: "Expansion of urban areas"
-    },
-    {
-        question: "What is overexploitation of resources?",
-        answers: [
-            "Conserving resources at a sustainable level",
-            "Harvesting a renewable resource to the point of depletion",
-            "Regulating the use of natural resources",
-            "Increasing biodiversity in ecosystems"
-        ],
-        correctAnswer: "Harvesting a renewable resource to the point of depletion"
-    },
-    {
         question: "Which country is recognized for its highest marine biodiversity?",
         answers: [
             "Australia",
@@ -398,16 +368,6 @@ const questions = [
             "South Africa"
         ],
         correctAnswer: "Philippines"
-    },
-    {
-        question: "What is a significant issue affecting fish production in the Philippines?",
-        answers: [
-            "Increased fishing grounds",
-            "Expansion of coral reefs",
-            "Decline in fish stocks and degraded coral reefs",
-            "High levels of fish diversity"
-        ],
-        correctAnswer: "Decline in fish stocks and degraded coral reefs"
     },
     {
         question: "What is one consequence of overpopulation on the environment?",
@@ -460,26 +420,6 @@ const questions = [
         correctAnswer: "Africa"
     },
     {
-        question: "What is one of the consequences of global warming on Antarctic marine life?",
-        answers: [
-            "Increase in biodiversity",
-            "Decrease in species dominance",
-            "Faster growth rates of some fauna",
-            "Reduction in sea temperatures"
-        ],
-        correctAnswer: "Faster growth rates of some fauna"
-    },
-    {
-        question: "What is a major issue affecting water resources in the Philippines?",
-        answers: [
-            "Excessive water availability",
-            "High quality of drinking water",
-            "Low annual per capita availability of freshwater and pollution",
-            "Abundance of freshwater lakes and rivers"
-        ],
-        correctAnswer: "Low annual per capita availability of freshwater and pollution"
-    },
-    {
         question: "True or False: Environmental degradation only refers to the pollution of air and water.",
         answers: ["True", "False"],
         correctAnswer: "False"
@@ -498,16 +438,6 @@ const questions = [
         question: "True or False: Overpopulation leads to reduced garbage production and decreased demand for resources.",
         answers: ["True", "False"],
         correctAnswer: "False"
-    },
-    {
-        question: "True or False: The majority of waste produced in the U.S. is recycled.",
-        answers: ["True", "False"],
-        correctAnswer: "False"
-    },
-    {
-        question: "True or False: Air pollution can result from the release of sulfur dioxide and carbon monoxide into the atmosphere.",
-        answers: ["True", "False"],
-        correctAnswer: "True"
     },
     {
         question: "True or False: Noise pollution only affects human health and not wildlife.",
